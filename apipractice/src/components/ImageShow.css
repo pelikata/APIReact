@@ -1,0 +1,8 @@
+.imageBig{
+    width: 100px;
+    
+}
+
+.editimage img:hover {
+    filter: opacity(.9);
+}
